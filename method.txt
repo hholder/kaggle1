@@ -1,4 +1,0 @@
-Method:
- - Calculate a sentiment score for each phrase in train.tsv
- - Map the scores to sentiment labels in train.tsv (not sure how yet)
- - Calculate sentiment scores for each phrase in test.tsv then use the score to assign a label based on the map created previously
