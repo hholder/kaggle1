@@ -2,6 +2,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en" class="   ">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
@@ -31,7 +32,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BED54DB6:6A43:16046DD6:53F0D791" name="octolytics-dimension-request_id" /><meta content="8228832" name="octolytics-actor-id" /><meta content="hholder" name="octolytics-actor-login" /><meta content="d8d301149fec58a34b3b8fbe6d18bc42c7305317e6cc8402bdc0cdbbd5d8bf1f" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BED54DB6:0874:12EC393C:53F0D983" name="octolytics-dimension-request_id" /><meta content="8228832" name="octolytics-actor-id" /><meta content="hholder" name="octolytics-actor-login" /><meta content="d8d301149fec58a34b3b8fbe6d18bc42c7305317e6cc8402bdc0cdbbd5d8bf1f" name="octolytics-actor-hash" />
     
 
     
@@ -40,7 +41,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="rTxo6hiULCAWGFy6SB8Rl2n+e2D+37GuxmEuShQoa+7SXplsM/+7ANLQreXPc4ZKhY2YpBrAlVpV86M5ZNKXtg==" name="csrf-token" />
+<meta content="v8r//87xLCsFY7bLbikiOxVO8sLNv+G87PTs3eSR2kMwTkdfRY4fq9jJTSTumWkt/D03yWdVuRyJw1XjLyPLvQ==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-5efa7b0b8a55ddcee56e5aee3fa56109d1d2781c.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-97fd69f3a3771e25d14b434fa06478cc54fb9bf3.css" media="all" rel="stylesheet" type="text/css" />
@@ -54,6 +55,7 @@
 
 
   <meta content="8228832" name="octolytics-dimension-user_id" /><meta content="hholder" name="octolytics-dimension-user_login" /><meta content="23042921" name="octolytics-dimension-repository_id" /><meta content="hholder/kaggle1" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="23042921" name="octolytics-dimension-repository_network_root_id" /><meta content="hholder/kaggle1" name="octolytics-dimension-repository_network_root_nwo" />
+
   <link href="https://github.com/hholder/kaggle1/commits/master.atom" rel="alternate" title="Recent Commits to kaggle1:master" type="application/atom+xml">
 
   </head>
@@ -76,12 +78,13 @@
 </a>
 
 
-        <a href="/notifications" aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s" data-hotkey="g n">
+    
+    <a href="/notifications" aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s" data-hotkey="g n">
         <span class="mail-status all-read"></span>
 </a>
 
       <div class="command-bar js-command-bar  in-repository">
-          <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get">
 
 <div class="commandbar">
   <span class="message"></span>
@@ -136,6 +139,7 @@
       </div>
 
     
+
 <ul id="user-links">
   <li>
     <a href="/hholder" class="name">
@@ -161,7 +165,7 @@
     </a>
   </li>
   <li>
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lsR/h/eL7vcgkSO8U+NbwpqIw9gKvsjWT1SkURbdXyoHQXN9BlMmxxDSA3WjerGODAfuMLC59B+JTSi1PpsIgg==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="6xsdi6zvg5AAWwrZDhn3yCRmYh79AlsKT9g6HqSBySscW9zD7evL7FP/O4eAKLoT8p4ZhjhSiOCCML46kzSXnA==" /></div>
       <button class="sign-out-button tooltipped tooltipped-s" aria-label="Sign out">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -171,6 +175,7 @@
 
 <div class="js-new-dropdown-contents hidden">
   
+
 <ul class="dropdown-menu">
   <li>
     <a href="/new"><span class="octicon octicon-repo"></span> New repository</a>
@@ -203,6 +208,7 @@
         
 
 
+
       <div id="start-of-content" class="accessibility-aid"></div>
           <div class="site" itemscope itemtype="http://schema.org/WebPage">
     <div id="js-flash-container">
@@ -214,7 +220,7 @@
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Fm4mwpgwkvFaXuMFDYX3TQW1/STntpQqMC00w97K4wycp+lZeZV59f4ELqUOpnQiOhs58cDRxCFIfLCRADi11w==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="23042921" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="n0jqOsi62bhXU1/uBv/LMXiWCfOxV+X9UtCQyVoXwGHAawFrk0ga0cNG6ytQbmCi7UlcAr8a8iQ/9PEjnjRpBw==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="23042921" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/hholder/kaggle1/watchers">
@@ -287,9 +293,10 @@
 
   <li>
     
+
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/hholder/kaggle1/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iqjZ6LZJDn9bIFyEj0CeeotBeaoQVyufaNe3jcxOLU/Q2Dxht5Smf/lDvbhFicrKIkPuYbt37uWNvvwFo9su2A==" /></div>
+    <form accept-charset="UTF-8" action="/hholder/kaggle1/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="VdgWhe5Ea5ENORkuoFuCIQcZbmT288mbGihqRGuVQBl5qNmyupjpJz9JdlEO1ar8m+OgDe5k9ifUh7fn7BsT4Q==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar hholder/kaggle1">
@@ -300,7 +307,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/hholder/kaggle1/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SNJS/BUrv6t/EserVvw1JZWpHmanGDxqbs+R9iGMRS8cZELlotngzxbWQZJOjOtcpT56ifhy4PIHdTB5szSvSQ==" /></div>
+    <form accept-charset="UTF-8" action="/hholder/kaggle1/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="TFnfwVHFe1YmdL+VBosCIua0oaFJmTxCbYDOgeycfki2KmgTLL0fKQCrzDoANg9F9v4n4ueoeJHu3ssQkRm1+w==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star hholder/kaggle1">
@@ -343,6 +350,7 @@
       <div class="repository-with-sidebar repo-container new-discussion-timeline  ">
         <div class="repository-sidebar clearfix">
             
+
 <div class="sunken-menu vertical-right repo-nav js-repo-nav js-repository-container-pjax js-octicon-loaders" data-issue-count-url="/hholder/kaggle1/issues/counts">
   <div class="sunken-menu-contents">
     <ul class="sunken-menu-group">
@@ -377,7 +385,7 @@
     <ul class="sunken-menu-group">
 
       <li class="tooltipped tooltipped-w" aria-label="Pulse">
-        <a href="/hholder/kaggle1/pulse/weekly" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="pulse /hholder/kaggle1/pulse/weekly">
+        <a href="/hholder/kaggle1/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="pulse /hholder/kaggle1/pulse">
           <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>      </li>
@@ -403,7 +411,9 @@
 
               <div class="only-with-full-nav">
                 
+
   
+
 <div class="clone-url open"
   data-protocol-type="http"
   data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=push">
@@ -418,6 +428,7 @@
 </div>
 
   
+
 <div class="clone-url "
   data-protocol-type="ssh"
   data-url="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=push">
@@ -432,6 +443,7 @@
 </div>
 
   
+
 <div class="clone-url "
   data-protocol-type="subversion"
   data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=push">
@@ -475,12 +487,14 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
+
 <a href="/hholder/kaggle1/blob/0d9f97c988c721d8a39ddb3e7b544e15b6741a90/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:6bd0cf2ff5b8ff6030ba2e71c2461c8d -->
 
 <div class="file-navigation">
   
+
 <div class="select-menu js-menu-container js-select-menu left">
   <span class="minibutton select-menu-button js-menu-target css-truncate" data-hotkey="w"
     data-master-branch="master"
@@ -532,7 +546,7 @@
             </div> <!-- /.select-menu-item -->
         </div>
 
-          <form accept-charset="UTF-8" action="/hholder/kaggle1/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7+OT9F4oWvuW37z8Uc5yY54pRLdBrHhrr20Xmp/XNOWAckuwrKgw939CwIYpHB/ru3+KWtCLd/JuMfxonLeCow==" /></div>
+          <form accept-charset="UTF-8" action="/hholder/kaggle1/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="J9nfiWj7NMcW7RnPgwpHbjVZG2huUJ6OH/tHW/tAB867DfAyE4cuF5VO3AEQbPijBhhJwIcGp/2ATf0ndDWH/g==" /></div>
             <span class="octicon octicon-git-branch select-menu-item-icon"></span>
             <div class="select-menu-item-text">
               <h4>Create branch: <span class="js-new-item-name"></span></h4>
@@ -575,7 +589,7 @@
   </div>
 
   <div class="breadcrumb">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/hholder/kaggle1" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">kaggle1</span></a></span></span><span class="separator"> / </span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/hholder/kaggle1" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">kaggle1</span></a></span></span><span class="separator"> / </span><strong class="final-path">README.md</strong>
   </div>
 </div>
 
@@ -695,7 +709,7 @@ I then loaded the test dataset and calculated my sentiment score for each phrase
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.04070s from github-fe130-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.03559s from github-fe140-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
